@@ -14,4 +14,4 @@
 
 |  Data  | Fase | Descrição | Autores |
 |:-------|:-----|----------|:------|
-| 08/04/2025 | Planejamento inicial | Início do documento de visão do projeto  | Juliana Beatriz |
+| 08/04/2025 | Planejamento e Pesquisa | Início do documento de visão do projeto  | Juliana Beatriz |
