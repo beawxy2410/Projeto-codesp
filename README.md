@@ -1,11 +1,3 @@
-# Documento de visão
+# Projeto IFsports
 
-## Projeto de Extensão - IFsports
-
-### Histórico das etapas 
-
-|  Data  | Descrição | Autores |
-|:-------|:----------|:------|
-| 08/04/2025 | Início do documento de visão do projeto  | Juliana B. L. Araujo | 
-
-
+#### Repositório destinado à exposição de ideias acerca do projeto de extensão IFsports (em desenvolvimento).
