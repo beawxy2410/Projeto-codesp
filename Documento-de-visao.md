@@ -30,5 +30,6 @@ O objetivo do site IFsports, referente à Coordernação de Esportes (CODESP), n
 - Progresso de alunos destaque após o IFRN
 - Parceria de marketing com a TFF, atlética engrenada e CODESP
 - Espaço destinado a apresentação dos docentes/servidores/gestão da CODESP
+- Informes sobre a abertura dos jogos internos, como participar e edições passadas
   
 
