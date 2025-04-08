@@ -6,7 +6,7 @@
 
 | Fase | Duração prevista | Entregáveis Principais |
 |:------|:---------|:------------------------|
-| Planejamento e Pesquisa | 1 mês (até 08/05) | Documento de Visão, Definição de Escopo |
+| Planejamento e Pesquisa | 1 mês (até 08/05) | Documento de Visão, Definição de Escopo, Pesquisa de necessidades |
 | Modelagem | 2 meses (até 08/07) | Personas, Mapa do Site, Protótipos |
 | Desenvolvimento Web | 3 meses (até 08/09) | Front-end e Back-end funcionais |
 
