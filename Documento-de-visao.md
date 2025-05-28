@@ -14,6 +14,7 @@
 O objetivo do site IFsports, referente à Coordernação de Esportes (CODESP), no núcleo IFRN CNAT é melhorar a comunicação, o alcance e a visibilidade das diversas oportunidades esportivas que o núcleo de ensino oferece aos estudantes da instituição, visando uma plataforma mais intuitiva que instigue a participação dos mesmos nos demais eventos, campeonatos e torcidas e que facilite a comunicação da relação servidor CODESP e aluno IFRN.
 
 ## 2. Descrição do problema 
+| | |
 |:-|:-|
 | **_O problema_** | Baixa comunicação e alcance das oportunidades esportivas oferecidas pela CODESP para os alunos do IFRN-CNAT. | 
 | **_afetando_** | A participação dos estudantes em eventos, campeonatos e torcidas, além da relação servidor-aluno. |
