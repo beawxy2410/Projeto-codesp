@@ -15,7 +15,6 @@
 O objetivo do site referente à Coordernação de Esportes (CODESP), no núcleo IFRN CNAT é melhorar a comunicação, o alcance e a visibilidade das diversas oportunidades esportivas que o núcleo de ensino oferece aos estudantes da instituição, visando uma plataforma mais intuitiva que instigue a participação dos mesmos nos demais eventos, campeonatos e torcidas e que facilite a comunicação da relação servidor CODESP e aluno IFRN. 
 
 ## 2. Descrição do problema 
-| | |
 |:-|:-|
 | **_O problema_** | Baixa comunicação e alcance das oportunidades esportivas oferecidas pela CODESP para os alunos do IFRN-CNAT. | 
 | **_afetando_** | A participação dos estudantes em eventos, campeonatos e torcidas, além da relação servidor-aluno. |
@@ -46,13 +45,13 @@ Como alternativas concorrentes podemos colocar o site dos jogos da juventude e o
 
 Uma alternativa é o site dos [Jogos da Juventude](https://jogosdajuventude.org.br):
 
-Pontos fortes:
+**Pontos fortes**:
 
 - A interface do sistema possui a paleta de cores da bandeira do brasil, trazendo um caráter mais identitário para o usuário.
 - A página de modalidades é organizada e intuitiva, o uso da mascote de acordo com o esporte facilita a procura de informações que é de maneira simples e direta.
 - As notícias são constantemente atualizadas e são pertinentes para o perfil de usuários do site, como atletas e professores.
 
-Pontos fracos:
+**Pontos fracos**:
 
 - Algumas imagens no menu principal possuem má qualidade, frustrando a experiência do usuário.
 - Os documentos são expostos de forma desorganizada, os regulamentos, boletins e notas são confusas e demora para um usuário encontrar um arquivo que deseja, além de alguns serem grandes e com a leitura maçante.
