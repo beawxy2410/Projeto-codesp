@@ -78,6 +78,22 @@ O site tem 3 tipos de usuário. O Aluno e o usuário do público externo irão p
 
 ## 8. Requisitos Funcionais
 
+| Código | Nome                             | Descrição                                                                 | Categoria  |
+|--------|----------------------------------|---------------------------------------------------------------------------|------------|
+| F01    | Gerenciar página inicial        | Atualizar banners, destaques e links rápidos da homepage                  | Essencial  |
+| F02    | Gerenciar modalidades           | CRUD de modalidades esportivas com horários e categorias                  | Essencial  |
+| F03    | Publicar notícias               | Sistema de publicação e edição de notícias institucionais                 | Essencial  |
+| F04    | Gerenciar jogos internos        | Disponibilizar editais, galeria de fotos e FAQs sobre participação        | Essencial  |
+| F05    | Gerenciar eventos               | Cadastro de eventos com datas, descrições e fotos                         | Essencial  |
+| F06    | Gerenciar galeria               | Upload/organização de fotos (eventos, premiações, espaços físicos)        | Essencial  |
+| F07    | Disponibilizar documentos       | Área para upload/download de documentos institucionais                     | Essencial  |
+| F08    | Gerenciar contatos              | Atualização de endereço, redes sociais e formulário de contato            | Essencial  |
+
+## Observações:
+- **CRUD**: Create, Read, Update, Delete (Cadastrar, Ler, Atualizar, Excluir)
+- **Essencial**: Funcionalidades obrigatórias baseadas no mapeamento atual
+- **Opcional**: Funcionalidade condicional à existência de serviços específicos
+
 ## 9.Requisitos Funcionais
 
 | Código | Nome | Descrição | Categoria | Classificação |
